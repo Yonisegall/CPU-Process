@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CPU-Process": {
+      "commandName": "Project",
+      "commandLineArgs": "999999999"
+    }
+  }
+}
