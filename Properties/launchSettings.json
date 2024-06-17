@@ -2,7 +2,7 @@
   "profiles": {
     "CPU-Process": {
       "commandName": "Project",
-      "commandLineArgs": "999999999"
+      "commandLineArgs": "10000 256"
     }
   }
 }
